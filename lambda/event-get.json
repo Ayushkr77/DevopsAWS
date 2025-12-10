@@ -1,0 +1,7 @@
+{
+  "httpMethod": "GET",
+  "path": "/employee",
+  "queryStringParameters": {
+    "emp_id": "E100"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "httpMethod": "POST",
+  "path": "/employee",
+  "body": "{\"Emp_Id\":\"E100\",\"First_Name\":\"Test\",\"Last_Name\":\"User\",\"Date_Of_Joining\":\"2025-01-01\"}",
+  "isBase64Encoded": false
+}
