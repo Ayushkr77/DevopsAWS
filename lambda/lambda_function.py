@@ -16,7 +16,7 @@ def _response(status_code, body_dict):
 
 
 def lambda_handler(event, context):
-    # Log full event for debugging just for rezipping. Github push fir auto trigger 3
+    # Log full event for debugging just for rezipping. Github push fir auto trigger 4
     print("Event:", json.dumps(event))
 
     # Support REST API (httpMethod) & HTTP API (requestContext.http.method)
